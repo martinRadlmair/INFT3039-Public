@@ -1,0 +1,21 @@
+IELTS Task 2 Essay Evaluation Reference
+
+This is a safe ingestion test document for the ELA vector database.
+
+Evaluation Guidelines:
+- Assess Task Response
+- Assess Coherence and Cohesion
+- Assess Lexical Resource
+- Assess Grammatical Range and Accuracy
+
+Band Score Notes:
+Band 9:
+Fully addresses all parts of the task with sophisticated vocabulary and accurate grammar.
+
+Band 7:
+Addresses all parts of the task with clear organisation and generally accurate grammar.
+
+Band 5:
+Partially addresses the task with limited development and noticeable grammar issues.
+
+This file is intended only for testing ingestion into the vector store.
